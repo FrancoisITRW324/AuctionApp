@@ -1,0 +1,39 @@
+<form #registerForm="ngForm" (ngSubmit = "register()") > 
+  <h2 class="text-center text-primary">Register here</h2>
+  <hr>
+
+  <div>
+    <input type="text" class="form-control" required name="username" [(ngModel)]="model.username" placeholder="Username">
+  </div>
+
+  <div>
+    <input type="text" class="form-control" required name="name" [(ngModel)]="model.name" placeholder="Name">
+  </div>
+
+  <div>
+    <input type="text" class="form-control" required name="surname" [(ngModel)]="model.surname" placeholder="Surname">
+  </div>
+
+  <div>
+    <input type="text" class="form-control"required name="uemail" [(ngModel)]="model.email" placeholder="Email">
+  </div>
+
+  <div>
+    <input type="text" class="form-control" required name="IdNumber" [(ngModel)]="model.idnumber" placeholder="ID Number">
+  </div>
+
+  <div>
+    <input type="text" class="form-control" required name="PassportNumber" [(ngModel)]="model.passportnumber" placeholder="Passport Number">
+  </div>
+
+  <div>
+    <input type="text" class="form-control" required name="Password" [(ngModel)]="model.password"placeholder="Password">
+  </div>
+
+  <div class="form-group text-center">
+    <button class="btn btn-success" type="submit">Register</button>
+    
+  </div>
+
+
+</form>

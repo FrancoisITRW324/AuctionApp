@@ -41,3 +41,11 @@ C:\Users\Francois\Desktop\AuctionAPP\AuctionApp.API\bin\Debug\netcoreapp3.0\runt
 C:\Users\Francois\Desktop\AuctionAPP\AuctionApp.API\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Francois\Desktop\AuctionAPP\AuctionApp.API\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\Francois\Desktop\AuctionAPP\AuctionApp.API\obj\Debug\netcoreapp3.0\AuctionApp.API.csproj.CopyComplete
+C:\Users\Francois\Desktop\AuctionAPP\AuctionApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Francois\Desktop\AuctionAPP\AuctionApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Francois\Desktop\AuctionAPP\AuctionApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Francois\Desktop\AuctionAPP\AuctionApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Francois\Desktop\AuctionAPP\AuctionApp.API\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Francois\Desktop\AuctionAPP\AuctionApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Francois\Desktop\AuctionAPP\AuctionApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Francois\Desktop\AuctionAPP\AuctionApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
